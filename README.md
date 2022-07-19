@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumeet Motwani</h1>
+<h1 align="center">Hi, I'm Sumeet</h1>
 <h3 align="center">Working in PE, ML, and SWE</h3>
 
 - 🔭 I’m currently working on **Solana Program Library**
