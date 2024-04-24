@@ -1,13 +1,6 @@
 <h1 align="center">Hi, I'm Sumeet</h1>
-<h3 align="center">Working in PE, ML, and SWE</h3>
 
-- I’m currently working on **Solana Program Library**
-
-- I’m currently learning **AI Safety and Private Equity**
-
-- All of my projects are available at [sumeetmotwani.com](sumeetmotwani.com)
-
-- Ask me about **ML, Math, Cybersecurity, Finance**
+[sumeetmotwani.com](sumeetmotwani.com)
 
 - How to reach me **sumeetrmotwani@gmail.com**
 
